@@ -1,0 +1,124 @@
+
+{
+  "title": "Manikkavasagar - The Divine Revelation of Thiruvasagam",
+  "duration": "10 seconds",
+  "historical_period": "9th Century CE",
+  "location": "Thillai Chidambaram Nataraja Temple, Tamil Nadu",
+  "aspect_ratio": "16:9",
+  "style": "Ultra-realistic historical cinematic devotional film, 4K",
+
+  "timeline": [
+    {
+      "scene": 1,
+      "duration": "0-3 seconds",
+      "title": "Lord Shiva Writes Thiruvasagam",
+      "action": "Lord Shiva appears as a learned Brahmin and sits writing the sacred Thiruvasagam on palm leaves using a traditional writing stylus. Manikkavasagar sits nearby, reciting his devotional verses to Shiva.",
+      "characters": {
+        "shiva": "A peaceful divine Brahmin, traditional ancient Tamil clothing, sacred vibhuti, writing carefully on palm leaves.",
+        "manikkavasagar": "A humble Shaivite saint in saffron ascetic clothing, reciting verses with deep devotion."
+      },
+      "camera": {
+        "shot": "Medium cinematic shot",
+        "movement": "Slow gentle camera push-in",
+        "focus": "Shiva's hand writing on the palm leaf, followed by Manikkavasagar reciting."
+      },
+      "lighting": "Soft golden oil-lamp lighting with a peaceful spiritual atmosphere."
+    },
+    {
+      "scene": 2,
+      "duration": "3-6 seconds",
+      "title": "The Divine Manuscript Is Discovered",
+      "action": "The next morning, several Thillai Vazh Anthanars approach Manikkavasagar urgently. They inform him that a mysterious palm-leaf manuscript has appeared near the sacred feet of Lord Nataraja inside the Chidambaram shrine. They gesture towards the temple sanctum while explaining what they discovered.",
+      "characters": {
+        "anthanars": "Traditional Tamil temple priests wearing white veshti, sacred thread and vibhuti. Their expressions show surprise and curiosity.",
+        "manikkavasagar": "Listens attentively, with a sudden expression of amazement and spiritual excitement."
+      },
+      "camera": {
+        "shot": "Medium-wide shot",
+        "movement": "Camera pans towards the approaching Anthanars and settles on Manikkavasagar.",
+        "focus": "The Anthanars explaining the discovery and Manikkavasagar's reaction."
+      },
+      "dialogue": "Anthanars: 'Manikkavasagare! Lord Nataraja's sacred feet have a mysterious palm-leaf manuscript beside them!'"
+    },
+    {
+      "scene": 3,
+      "duration": "6-8 seconds",
+      "title": "Manikkavasagar Rushes to Nataraja",
+      "action": "Upon hearing the news, Manikkavasagar immediately rises and runs towards the Nataraja shrine with excitement and devotion. The Anthanars follow him.",
+      "characters": {
+        "manikkavasagar": "Runs with an emotional, joyful expression, his saffron robes moving naturally.",
+        "anthanars": "Follow behind him towards the shrine."
+      },
+      "camera": {
+        "shot": "Wide tracking shot",
+        "movement": "Camera tracks Manikkavasagar running through the ancient temple corridor.",
+        "focus": "His urgent movement towards the Nataraja sanctum."
+      },
+      "lighting": "Early morning golden sunlight entering through the temple corridor."
+    },
+    {
+      "scene": 4,
+      "duration": "8-10 seconds",
+      "title": "Shiva Himself Is the Meaning",
+      "action": "Manikkavasagar stands before Lord Nataraja, looks at the palm-leaf manuscript and then points towards the divine Nataraja. With complete devotion and spiritual realization, he declares that Lord Shiva himself is the meaning of these sacred verses. The Anthanars stand amazed and turn towards Nataraja.",
+      "characters": {
+        "manikkavasagar": "Points towards Lord Nataraja with one hand, his face filled with divine bliss and surrender.",
+        "anthanars": "Stand in reverence, looking towards the deity.",
+        "nataraja": "Magnificent traditional bronze Nataraja in the sacred Chidambaram shrine."
+      },
+      "camera": {
+        "shot": "Wide cinematic composition",
+        "movement": "Gradual zoom out to reveal Manikkavasagar, the Anthanars and Nataraja together.",
+        "focus": "Manikkavasagar pointing towards Nataraja."
+      },
+      "dialogue": "Manikkavasagar: 'திருவாசகத்திற்கு பொருள் சிவனே!'",
+      "ending": "Hold the final devotional composition for a brief moment."
+    }
+  ],
+
+  "environment": {
+    "time_period": "9th Century CE",
+    "morning_scene": "6:00 AM",
+    "architecture": "Historically inspired ancient Chidambaram temple architecture",
+    "background": [
+      "Ancient stone pillars",
+      "Traditional temple corridors",
+      "Oil lamps",
+      "Sacred Nataraja shrine",
+      "Palm-leaf manuscript near the deity's feet",
+      "Subtle incense smoke"
+    ]
+  },
+
+  "color_palette": [
+    "Warm golden sunlight",
+    "Natural earthy brown",
+    "Ancient stone grey",
+    "Saffron",
+    "Antique bronze",
+    "Traditional white garments"
+  ],
+
+  "audio": {
+    "background_music": "Soft traditional Tamil devotional instrumental music with veena, flute and gentle temple bells.",
+    "scene_1": "Soft palm-leaf writing sounds and devotional ambience.",
+    "scene_2": "Footsteps and urgent but respectful voices of the Anthanars.",
+    "scene_3": "Running footsteps with gradually rising devotional music.",
+    "scene_4": "Gentle temple bells and emotionally uplifting devotional music."
+  },
+
+  "avoid": [
+    "Modern architecture",
+    "Modern clothing",
+    "Electric lighting",
+    "Cartoon appearance",
+    "Fantasy-style visual effects",
+    "Incorrect Nataraja iconography",
+    "Distorted hands and faces",
+    "Unnatural running movements",
+    "Unrealistic character transitions",
+    "Text overlays",
+    "Watermarks",
+    "Changing character appearance between scenes"
+  ]
+}
